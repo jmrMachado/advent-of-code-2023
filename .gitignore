@@ -1,0 +1,7 @@
+*__pycache__*
+*.pytest_cache*
+passphrase.txt
+tests/test_*.py
+inputs
+utils
+advent_of_code_2023/day*.py
