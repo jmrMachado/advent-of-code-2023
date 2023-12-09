@@ -1,10 +1,7 @@
 *__pycache__*
 *.pytest_cache*
 passphrase.txt
-tests/test_day2*.py
 tests/test_day3*.py
-inputs/day_two*.txt
 inputs/day_three*.txt
 utils/matrix.py
-advent_of_code_2023/day2_*.py
 advent_of_code_2023/day3_*.py
